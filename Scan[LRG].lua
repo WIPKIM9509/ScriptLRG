@@ -112,7 +112,7 @@ function getResult7(address1)
     return "0x0"
 end
 
-local URL = 'https://lrg-bot.onrender.com/offset'
+local URL = 'https://bot-lrg-ctfj.onrender.com/offset'
 local offset1 = getResult1(address1)
 local offset2 = getResult2(address1)
 local offset3 = getResult3(address1)
